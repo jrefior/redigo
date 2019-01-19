@@ -1,1 +1,1 @@
-module github.com/gomodule/redigo
+module github.com/jrefior/redigo
